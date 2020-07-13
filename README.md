@@ -1,4 +1,4 @@
 # python
 python study
 
-seolah
+:0
